@@ -1,0 +1,8 @@
+-classpath 'C:\\Users\\Lamia\\Desktop\\2CS\\OUTILS\\TP_7\\build\\classes\\java\\main;C:\\Users\\Lamia\\Desktop\\2CS\\OUTILS\\TP_7\\build\\resources\\main'
+-d 'C:\\Users\\Lamia\\Desktop\\2CS\\OUTILS\\TP_7\\build\\docs\\javadoc'
+-doctitle 'TP_7 0.1 API'
+-quiet 
+-windowtitle 'TP_7 0.1 API'
+'C:\\Users\\Lamia\\Desktop\\2CS\\OUTILS\\TP_7\\src\\main\\java\\com\\example\\exception\\NoSquareException.java'
+'C:\\Users\\Lamia\\Desktop\\2CS\\OUTILS\\TP_7\\src\\main\\java\\com\\example\\model\\Matrix.java'
+'C:\\Users\\Lamia\\Desktop\\2CS\\OUTILS\\TP_7\\src\\main\\java\\com\\example\\service\\MatrixMathematics.java'

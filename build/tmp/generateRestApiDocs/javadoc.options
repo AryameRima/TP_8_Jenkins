@@ -1,0 +1,9 @@
+-d 'C:\\Users\\Lamia\\Desktop\\2CS\\OUTILS\\TP_7\\build\\reports\\rest-api-docs'
+-doclet 'com.lunatech.doclets.jax.jaxrs.JAXRSDoclet'
+-doctitle 'TP_7 1.0 API'
+-jaxrscontext 'http://localhost:8080/myapp'
+-quiet 
+-windowtitle 'TP_7 1.0 API'
+'C:\\Users\\Lamia\\Desktop\\2CS\\OUTILS\\TP_7\\src\\main\\java\\com\\example\\exception\\NoSquareException.java'
+'C:\\Users\\Lamia\\Desktop\\2CS\\OUTILS\\TP_7\\src\\main\\java\\com\\example\\model\\Matrix.java'
+'C:\\Users\\Lamia\\Desktop\\2CS\\OUTILS\\TP_7\\src\\main\\java\\com\\example\\service\\MatrixMathematics.java'
